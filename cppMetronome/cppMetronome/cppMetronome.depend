@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1514307378 source:c:\users\admin\desktop\cppmetronome\cppmetronome\main.cpp
+	"metronome.h"
+	<iostream>
+
+1514307378 c:\users\admin\desktop\cppmetronome\cppmetronome\metronome.h
+
+1514307947 source:c:\users\admin\desktop\cppmetronome\cppmetronome\metronome.cpp
+	<windows.h>
+	<mmsystem.h>
+	<iostream>
+	<conio.h>
+	"metronome.h"
+
